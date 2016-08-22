@@ -1,0 +1,14 @@
+layout_spectrum: 0.8209280939772725
+typography_spectrum: 0.2701786393299699
+color:
+  brandStrength: 0.4291581886354834
+  lightness: 0.7108988012187183
+  saturation: 0.49584584520198405
+  rhythmicContrast: 0.08891940023750067
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: human form+
