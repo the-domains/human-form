@@ -11,6 +11,11 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 layout_spectrum: 0.8209280939772725
+author:
+  name: Sebastian
+  email: sj@wearabletechnology.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8134650d-cb71-48ce-a026-844acc25e0ac.jpg
 name: human form+
 title: We make wearables intelligent
 description: Start your training
